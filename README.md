@@ -18,7 +18,9 @@ Feel free to contact me easily through the platforms below. I'm always open to c
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=html5&fill=ff7900&text=false&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=css3&fill=023e8a&text=false&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=ffa500&text=false&animation=spin)
+
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=git&fill=FF5733&text=false&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=bootstrap&fill=420980&text=false&animation=spin)
 
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=figma&fill=101111&text=false&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=blender&fill=ff8c00&text=false&animation=spin)
