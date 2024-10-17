@@ -38,7 +38,7 @@ Feel free to contact me easily through the platforms below. I'm always open to c
 | -------------------------------- | ---------- | ----------- |
 | [Basic computer training](https://startit.ua/bazova-kompyuterna-pidgotovka-junior-level-10-11-rokiv)         | October 2020  | July 2022 |
 |[Advanced computer programming training](https://startit.ua/osnovi-programuvannya-internet-rechei-ta-shtichniy-intelekt)        | October 2022 | July 2024 |
-| [Professional web training]()           |September 2024   |  ---  |
+| [Professional web training](https://startit.ua/profesijna-kompyuterna-pidgotovka-middle-level-14-16-rokiv#!/tab/162454591-1)           |September 2024   |  ---  |
 ---
 
 Thanks for stopping by! Feel free to connect, and let's create something awesome together! 😎
